@@ -5,4 +5,4 @@ UIColorExtension.swift is an addition file, where UIColor extension to hex-codes
 
 Sorry if english is bad =)
 
-Also there is one easter egg (push on second view from the top left).
+Also there is one easter egg (push on second from the top left view).
